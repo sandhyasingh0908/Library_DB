@@ -3,3 +3,4 @@ The benefits of using a library management database system are numerous. They in
 In conclusion, modern libraries require a library management database system to optimize their operations, improve resource access, and deliver high-quality services to patrons.
 The Library management system consists of five tables - Book, Author, Publisher, Customer & IssueRegister
 
+![ERD_Diagram_Lib_DB](https://github.com/sandhyasingh0908/Library_DB/assets/159036199/66493c2b-888a-4649-a844-7f88b3f9c19c)
