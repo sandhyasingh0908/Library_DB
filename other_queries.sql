@@ -22,3 +22,8 @@ from book bk
 join author au on au.authorid=bk.authorid
 join publisher pb on pb.pubid=bk.pubid
 
+--query to display customers list who have not paid any fine
+select * from issueregister re
+join customer ct on ct.custid=re.custid
+where fine_amt =0
+
